@@ -1,4 +1,4 @@
-# MyTimes
+# news-feed-app
 
 
 [https://newsapi.org/](url)
